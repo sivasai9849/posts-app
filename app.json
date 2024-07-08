@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "buzzshare",
-    "slug": "buzzshare",
+    "slug": "posts-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "214abeb0-1b03-497b-813e-62b0b125b793"
+      }
+    },
+    "owner": "sivasai9849",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/214abeb0-1b03-497b-813e-62b0b125b793"
     }
   }
 }
